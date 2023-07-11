@@ -229,3 +229,41 @@ span {
 .subscribe-btn {
     padding: 0px 287px 121px 10px;
 }
+
+footer {
+    width: 1922px;
+    height: 449px;
+    background: #111010;
+}
+
+.footer-heading {
+    text-align: center;
+    padding-top: 100px;
+}
+
+.flower {
+    color: #E55473;
+    font-size: 48px;
+    font-weight: 800;
+}
+
+.shop {
+    color: #FFFFFF;
+    font-size: 48px;
+    font-weight: 800;
+}
+
+small {
+    color: rgba(255, 255, 255, 0.40);
+    text-align: center;
+    font-size: 16px;
+    font-weight: 400;
+    padding: 5px 783px 128px 784px;
+}
+
+.footer-description {
+    color: rgba(255, 255, 255, 0.90);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+}
