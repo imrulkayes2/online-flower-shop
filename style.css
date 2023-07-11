@@ -158,3 +158,35 @@ span {
     width: 318px;
     height: 420px;
 }
+
+.instagram-title {
+    color: #272727;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+    padding: 128px 870px 0px 870px;
+}
+
+.instagram-details {
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    width: 594px;
+    padding: 24px 663px 48px 663px;
+}
+
+.social-pic {
+    display: flex;
+    justify-content: space-around;
+    padding: 48px 230px 128px 240px;
+}
+
+.pic1,
+.pic2,
+.pic3,
+.pic4 {
+    width: 342px;
+    height: 396px;
+    padding-right: 24px;
+}
