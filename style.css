@@ -190,3 +190,42 @@ span {
     height: 396px;
     padding-right: 24px;
 }
+
+.deal-title {
+    color: #272727;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+    padding: 122px 534px 0px 533px;
+}
+
+.latest-deal-section {
+    background-image: url("Images/Rectangle\ 9.png");
+    width: 1440px;
+    height: 449px;
+    border-radius: 8px;
+    margin: 0px 240px 128px 240px;
+}
+
+.offer-token {
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.email-box {
+    width: 700px;
+    height: 64px;
+    border-radius: 8px;
+    background: #FFF;
+}
+
+.subscribe {
+    display: flex;
+    padding: 0px 16px 121px 287px;
+}
+
+.subscribe-btn {
+    padding: 0px 287px 121px 10px;
+}
