@@ -118,3 +118,43 @@ body {
     text-decoration-line: underline;
     padding: 32px 0px 128px 0px;
 }
+
+.offer-section {
+    border-radius: 8px;
+    background: rgba(229, 84, 115, 0.05);
+    width: 1922px;
+    height: 620px;
+    display: flex;
+    margin-top: 128px;
+}
+
+.offer-name {
+    padding: 230px 215px 24px 423px;
+    color: #272727;
+    font-size: 40px;
+    font-weight: 800;
+}
+
+span {
+    color: #E55473;
+}
+
+.offer-description {
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    display: flex;
+    width: 594px;
+    padding: 0px 186px 32px 395px;
+}
+
+.sign-up {
+    padding: 0px 417px 162px 603px;
+}
+
+.offer-pic {
+    padding: 100px 410px 100px 0px;
+    width: 318px;
+    height: 420px;
+}
