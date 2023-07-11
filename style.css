@@ -1,0 +1,120 @@
+body {
+    font-family: 'Lato', sans-serif;
+}
+
+/* Style in header section */
+.header-section {
+    background-color: rgba(229, 84, 115, 0.10);
+    display: flex;
+    width: 1920px;
+    height: 850px;
+}
+
+.about-shop {
+    margin-left: 197px;
+}
+
+.shop-motto {
+    color: #272727;
+    font-size: 80px;
+    font-weight: 800;
+    padding: 97px 97px 32px 0px;
+    width: 708px;
+}
+
+.shop-description {
+    width: 634px;
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    font-weight: 400;
+    padding: 0px 171px 32px 0px;
+}
+
+.btn-primary {
+    background-color: #E55473;
+    color: #FFFFFF;
+    border-radius: 8px;
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 700;
+    padding: 20px 43px;
+}
+
+.shop-pic {
+    margin-right: 240px;
+    padding-top: 50px;
+}
+
+/* style feature section */
+.feature-section {
+    background-color: #FFFFFF;
+}
+
+.feature-title {
+    text-align: center;
+    color: #272727;
+    font-size: 40px;
+    font-weight: 800;
+    margin-top: 178px;
+}
+
+.feature-description {
+    text-align: center;
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    font-weight: 400;
+    width: 590px;
+    height: 60px;
+    padding: 24px 663px 63px 663px;
+}
+
+/* style collection section */
+.collection {
+    padding: 0px 100px 0px 100px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.collection-1 {
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+    width: 464px;
+    height: 538px;
+}
+
+.collection-1-pic {
+    padding: 110px 78px 0px 76px;
+}
+
+.collection-2 {
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(5, 151, 160, 0.15);
+    width: 464px;
+    height: 538px;
+}
+
+.collection-2-pic {
+    padding: 117px 47px 51px 47px;
+}
+
+.collection-3 {
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(71, 125, 17, 0.15);
+    width: 464px;
+    height: 538px;
+}
+
+.collection-3-pic {
+    padding: 67px 75px 0px 75px;
+}
+
+.pic-name {
+    color: #272727;
+    text-align: center;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 35px;
+    text-decoration-line: underline;
+    padding: 32px 0px 128px 0px;
+}
